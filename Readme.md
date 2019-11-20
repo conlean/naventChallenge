@@ -5,7 +5,7 @@
 
 1. Java 8
 
-2. Maven 
+2. Gradel
 
 3. Spring Boot
 
